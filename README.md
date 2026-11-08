@@ -13,7 +13,7 @@ Created a program that stores student information and calculates the average of 
 
 The program also determines the letter grade and whether the student passed or failed using if/else statements.
 
-## Assignment 2 - Bookstore Inventory
+## Assignment 1b - Bookstore Inventory
 
 Created a bookstore inventory application using two Java classes: Product and InventoryApp.
 
@@ -58,16 +58,16 @@ Run:
 java Assignment1.StudentGradeCalculator
 ```
 
-### Assignment 2 - Bookstore Inventory
+### Assignment 1b - Bookstore Inventory
 
 Compile:
 ```
-javac Assignment2\Product.java Assignment2\InventoryApp.java
+javac Assignment1b\Product.java Assignment1b\InventoryApp.java
 ```
 
 Run:
 ```
-java Assignment2.InventoryApp
+java Assignment1b.InventoryApp
 ```
 
 ### Notes
