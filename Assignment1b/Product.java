@@ -1,5 +1,5 @@
 
-package Assignment2;
+package Assignment1b;
 
 public class Product {
 
