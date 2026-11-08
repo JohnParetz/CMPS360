@@ -58,7 +58,7 @@ Run:
 java Assignment1.StudentGradeCalculator
 ```
 
-### Assignment 2 - Bookstore Inventory
+### Assignment 1b - Bookstore Inventory
 
 Compile:
 ```
