@@ -62,7 +62,7 @@ java Assignment1.StudentGradeCalculator
 
 Compile:
 ```
-javac Assignment1b\Product.java Assignment2\InventoryApp.java
+javac Assignment1b\Product.java Assignment1b\InventoryApp.java
 ```
 
 Run:
